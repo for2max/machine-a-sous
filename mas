@@ -85,7 +85,7 @@ on right click on a lever:
             NO(player)
 
 
-command /mas <text> <number>:
+command /mas [<text>] [<number>]:
     permission: admin
     permission message: &cVous n'avez pas la permission.
     trigger:
